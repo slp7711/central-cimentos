@@ -1,0 +1,19 @@
+.test-color{
+    background-color: orangered;
+    color: whitesmoke;  
+}
+
+.test-2-color{
+    background-color: seagreen;
+    color: whitesmoke;
+}
+
+.card-header-test{
+    background-color: #ff9800;
+    color: whitesmoke;
+}
+
+.card-body-test{
+    background-color: black;
+    color: orangered;
+}
